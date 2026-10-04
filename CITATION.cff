@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this replication package, please cite the thesis and the archived software release."
+title: "Stablecoin Systemic Risk: Replication Package for Chapters 4–6"
+type: software
+authors:
+  - family-names: Fan
+    given-names: Kewen
+version: 1.0.0
+date-released: 2026-10-03
+repository-code: "https://github.com/fankewe/master-thesis-code"
+abstract: "Code, frozen analysis inputs, tables, figures, and quality-assurance records for an empirical study of systemic depegging pressure, risk transmission, market concentration, and stablecoin portfolio resilience."

@@ -1,0 +1,8 @@
+{
+  "checksum_algorithm": "SHA-256",
+  "largest_public_file_bytes": 11180215,
+  "package": "stablecoin-systemic-risk-replication",
+  "public_bytes_excluding_checksum_manifest": 170854352,
+  "public_file_count_excluding_checksum_manifest": 610,
+  "raw_coingecko_included": false
+}
