@@ -1,0 +1,16 @@
+Core conclusion: Same-day stablecoin information and lagged macro-financial information are compared by their incremental reduction in out-of-sample 5% check loss; the all-lagged design separates synchronous network information from advance predictability.
+Figure archetype: quantitative heatmap
+Target journal/output: generic Q1 finance manuscript
+Backend: R
+Final size: 183 mm x 118 mm
+Panel map:
+  a: target-level quantile skill for macro-only, coin-only and joint models
+  b: target-level incremental macro and coin information in the joint model
+Evidence hierarchy:
+  hero evidence: standardized out-of-sample check-loss reduction by target and model
+  validation evidence: all-predictors-lagged comparison
+  controls/robustness: clean-window sample reported in the tables, not added as a panel
+Statistics needed: 2,252 calendar-date loss vectors; HAC lag 90; Holm correction for three primary model contrasts
+Source data needed: target-model mean check losses and benchmark-normalized differences
+Image-integrity notes: no smoothing, truncation or post-hoc target selection; all eleven stablecoins shown
+Reviewer risk: contemporaneous coin predictors are a conditional nowcast rather than ex-ante information, so the all-lagged result must be displayed separately and labelled directly

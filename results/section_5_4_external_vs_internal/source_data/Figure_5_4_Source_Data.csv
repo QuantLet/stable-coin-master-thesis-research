@@ -1,0 +1,109 @@
+"target","evidence_id","evidence_label","specification","model","model_label","skill_score"
+"System","conditional_same_day","Conditional GACV · same-day","same_day_conditional","macro_only","Macro-only",0.0827430215877847
+"System","conditional_same_day","Conditional GACV · same-day","same_day_conditional","coin_only","Coin-only",0.336699736119363
+"System","conditional_same_day","Conditional GACV · same-day","same_day_conditional","joint","Joint",0.369841453476768
+"System","oos_same_day","OOS check loss · same-day","same_day_conditional","macro_only","Macro-only",-0.125194764241692
+"System","oos_same_day","OOS check loss · same-day","same_day_conditional","coin_only","Coin-only",-0.158857559789005
+"System","oos_same_day","OOS check loss · same-day","same_day_conditional","joint","Joint",-0.198358297347012
+"System","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","macro_only","Macro-only",-0.124948137273567
+"System","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","coin_only","Coin-only",-0.343614899530714
+"System","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","joint","Joint",-0.385641814458735
+"USDC","conditional_same_day","Conditional GACV · same-day","same_day_conditional","macro_only","Macro-only",0.0725927366529824
+"USDC","conditional_same_day","Conditional GACV · same-day","same_day_conditional","coin_only","Coin-only",0.509279337787936
+"USDC","conditional_same_day","Conditional GACV · same-day","same_day_conditional","joint","Joint",0.525400964230817
+"BUSD","conditional_same_day","Conditional GACV · same-day","same_day_conditional","macro_only","Macro-only",0.108324659386543
+"BUSD","conditional_same_day","Conditional GACV · same-day","same_day_conditional","coin_only","Coin-only",0.300799514196166
+"BUSD","conditional_same_day","Conditional GACV · same-day","same_day_conditional","joint","Joint",0.359343655848553
+"GUSD","conditional_same_day","Conditional GACV · same-day","same_day_conditional","macro_only","Macro-only",0.0947722675302007
+"GUSD","conditional_same_day","Conditional GACV · same-day","same_day_conditional","coin_only","Coin-only",0.275630616771163
+"GUSD","conditional_same_day","Conditional GACV · same-day","same_day_conditional","joint","Joint",0.322533125089807
+"EURS","conditional_same_day","Conditional GACV · same-day","same_day_conditional","macro_only","Macro-only",0.0879874246045602
+"EURS","conditional_same_day","Conditional GACV · same-day","same_day_conditional","coin_only","Coin-only",0.22035553070305
+"EURS","conditional_same_day","Conditional GACV · same-day","same_day_conditional","joint","Joint",0.268558429347246
+"IDRT","conditional_same_day","Conditional GACV · same-day","same_day_conditional","macro_only","Macro-only",0.0547406513178338
+"IDRT","conditional_same_day","Conditional GACV · same-day","same_day_conditional","coin_only","Coin-only",0.170856246515127
+"IDRT","conditional_same_day","Conditional GACV · same-day","same_day_conditional","joint","Joint",0.198866928915678
+"USDT","conditional_same_day","Conditional GACV · same-day","same_day_conditional","macro_only","Macro-only",0.102377047587838
+"USDT","conditional_same_day","Conditional GACV · same-day","same_day_conditional","coin_only","Coin-only",0.422419715245725
+"USDT","conditional_same_day","Conditional GACV · same-day","same_day_conditional","joint","Joint",0.45229798212333
+"sUSD","conditional_same_day","Conditional GACV · same-day","same_day_conditional","macro_only","Macro-only",0.0702293991014189
+"sUSD","conditional_same_day","Conditional GACV · same-day","same_day_conditional","coin_only","Coin-only",0.312022485554831
+"sUSD","conditional_same_day","Conditional GACV · same-day","same_day_conditional","joint","Joint",0.341200590140089
+"PAXG","conditional_same_day","Conditional GACV · same-day","same_day_conditional","macro_only","Macro-only",0.0714232539277854
+"PAXG","conditional_same_day","Conditional GACV · same-day","same_day_conditional","coin_only","Coin-only",0.204898848302486
+"PAXG","conditional_same_day","Conditional GACV · same-day","same_day_conditional","joint","Joint",0.245300318989559
+"TUSD","conditional_same_day","Conditional GACV · same-day","same_day_conditional","macro_only","Macro-only",0.0881349872925075
+"TUSD","conditional_same_day","Conditional GACV · same-day","same_day_conditional","coin_only","Coin-only",0.458835368560465
+"TUSD","conditional_same_day","Conditional GACV · same-day","same_day_conditional","joint","Joint",0.471962192162829
+"USDP","conditional_same_day","Conditional GACV · same-day","same_day_conditional","macro_only","Macro-only",0.0763072729020933
+"USDP","conditional_same_day","Conditional GACV · same-day","same_day_conditional","coin_only","Coin-only",0.414920609408872
+"USDP","conditional_same_day","Conditional GACV · same-day","same_day_conditional","joint","Joint",0.436229406451609
+"DAI","conditional_same_day","Conditional GACV · same-day","same_day_conditional","macro_only","Macro-only",0.0745198286565417
+"DAI","conditional_same_day","Conditional GACV · same-day","same_day_conditional","coin_only","Coin-only",0.459375432303158
+"DAI","conditional_same_day","Conditional GACV · same-day","same_day_conditional","joint","Joint",0.480040420584084
+"USDC","oos_same_day","OOS check loss · same-day","same_day_conditional","macro_only","Macro-only",-0.116706234274847
+"USDC","oos_same_day","OOS check loss · same-day","same_day_conditional","coin_only","Coin-only",0.0238208070831301
+"USDC","oos_same_day","OOS check loss · same-day","same_day_conditional","joint","Joint",-0.0301035838364327
+"BUSD","oos_same_day","OOS check loss · same-day","same_day_conditional","macro_only","Macro-only",-0.121268151337535
+"BUSD","oos_same_day","OOS check loss · same-day","same_day_conditional","coin_only","Coin-only",-0.147818921390319
+"BUSD","oos_same_day","OOS check loss · same-day","same_day_conditional","joint","Joint",-0.195170654050841
+"GUSD","oos_same_day","OOS check loss · same-day","same_day_conditional","macro_only","Macro-only",-0.141061445397181
+"GUSD","oos_same_day","OOS check loss · same-day","same_day_conditional","coin_only","Coin-only",-0.244170635761202
+"GUSD","oos_same_day","OOS check loss · same-day","same_day_conditional","joint","Joint",-0.289741843697472
+"EURS","oos_same_day","OOS check loss · same-day","same_day_conditional","macro_only","Macro-only",-0.0933068686426977
+"EURS","oos_same_day","OOS check loss · same-day","same_day_conditional","coin_only","Coin-only",-0.31804652259521
+"EURS","oos_same_day","OOS check loss · same-day","same_day_conditional","joint","Joint",-0.368431215746759
+"IDRT","oos_same_day","OOS check loss · same-day","same_day_conditional","macro_only","Macro-only",-0.100647280376876
+"IDRT","oos_same_day","OOS check loss · same-day","same_day_conditional","coin_only","Coin-only",-0.428859848202386
+"IDRT","oos_same_day","OOS check loss · same-day","same_day_conditional","joint","Joint",-0.342762702625248
+"USDT","oos_same_day","OOS check loss · same-day","same_day_conditional","macro_only","Macro-only",-0.123559600942296
+"USDT","oos_same_day","OOS check loss · same-day","same_day_conditional","coin_only","Coin-only",-0.0122617922028361
+"USDT","oos_same_day","OOS check loss · same-day","same_day_conditional","joint","Joint",-0.0773346863542099
+"sUSD","oos_same_day","OOS check loss · same-day","same_day_conditional","macro_only","Macro-only",-0.175945892772768
+"sUSD","oos_same_day","OOS check loss · same-day","same_day_conditional","coin_only","Coin-only",-0.134437261591773
+"sUSD","oos_same_day","OOS check loss · same-day","same_day_conditional","joint","Joint",-0.165952074819432
+"PAXG","oos_same_day","OOS check loss · same-day","same_day_conditional","macro_only","Macro-only",-0.110008247020033
+"PAXG","oos_same_day","OOS check loss · same-day","same_day_conditional","coin_only","Coin-only",-0.349516179091996
+"PAXG","oos_same_day","OOS check loss · same-day","same_day_conditional","joint","Joint",-0.543468896088852
+"TUSD","oos_same_day","OOS check loss · same-day","same_day_conditional","macro_only","Macro-only",-0.167268968362021
+"TUSD","oos_same_day","OOS check loss · same-day","same_day_conditional","coin_only","Coin-only",0.0353226798141868
+"TUSD","oos_same_day","OOS check loss · same-day","same_day_conditional","joint","Joint",-0.0370683047097868
+"USDP","oos_same_day","OOS check loss · same-day","same_day_conditional","macro_only","Macro-only",-0.119240910489993
+"USDP","oos_same_day","OOS check loss · same-day","same_day_conditional","coin_only","Coin-only",-0.0272369519869804
+"USDP","oos_same_day","OOS check loss · same-day","same_day_conditional","joint","Joint",-0.0175710070427135
+"DAI","oos_same_day","OOS check loss · same-day","same_day_conditional","macro_only","Macro-only",-0.0867698516066118
+"DAI","oos_same_day","OOS check loss · same-day","same_day_conditional","coin_only","Coin-only",-0.0971239587840733
+"DAI","oos_same_day","OOS check loss · same-day","same_day_conditional","joint","Joint",-0.162494319117476
+"USDC","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","macro_only","Macro-only",-0.1167086225041
+"USDC","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","coin_only","Coin-only",-0.339524197925341
+"USDC","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","joint","Joint",-0.40221979036248
+"BUSD","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","macro_only","Macro-only",-0.121310447809694
+"BUSD","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","coin_only","Coin-only",-0.436553003316795
+"BUSD","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","joint","Joint",-0.470344895494792
+"GUSD","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","macro_only","Macro-only",-0.141316729913043
+"GUSD","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","coin_only","Coin-only",-0.332631573367101
+"GUSD","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","joint","Joint",-0.324801416806122
+"EURS","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","macro_only","Macro-only",-0.0932967430860168
+"EURS","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","coin_only","Coin-only",-0.285157628242198
+"EURS","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","joint","Joint",-0.293302454791013
+"IDRT","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","macro_only","Macro-only",-0.100806374838438
+"IDRT","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","coin_only","Coin-only",-0.581810558945137
+"IDRT","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","joint","Joint",-0.723132124985712
+"USDT","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","macro_only","Macro-only",-0.123569900597617
+"USDT","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","coin_only","Coin-only",-0.283683171048667
+"USDT","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","joint","Joint",-0.283725323304362
+"sUSD","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","macro_only","Macro-only",-0.176079048787328
+"sUSD","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","coin_only","Coin-only",-0.125118960955392
+"sUSD","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","joint","Joint",-0.208550340406706
+"PAXG","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","macro_only","Macro-only",-0.110218567041935
+"PAXG","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","coin_only","Coin-only",-0.270061314864252
+"PAXG","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","joint","Joint",-0.435280252031244
+"TUSD","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","macro_only","Macro-only",-0.163649599361765
+"TUSD","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","coin_only","Coin-only",-0.313428387550935
+"TUSD","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","joint","Joint",-0.314593301523963
+"USDP","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","macro_only","Macro-only",-0.119216398174031
+"USDP","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","coin_only","Coin-only",-0.321267446022468
+"USDP","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","joint","Joint",-0.325751894590341
+"DAI","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","macro_only","Macro-only",-0.0865339585250169
+"DAI","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","coin_only","Coin-only",-0.378345753540259
+"DAI","oos_all_lagged","OOS check loss · all lagged","all_predictors_lagged","joint","Joint",-0.331292177850466

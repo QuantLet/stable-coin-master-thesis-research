@@ -1,0 +1,8 @@
+"check","value","expected","status"
+"source_rows",108,"108","PASS"
+"display_cells",108,"108","PASS"
+"all_values_finite",108,"108","PASS"
+"svg_nonempty",45314,">0","PASS"
+"pdf_nonempty",7929,">0","PASS"
+"tiff_nonempty",1295358,">0","PASS"
+"png_nonempty",175676,">0","PASS"

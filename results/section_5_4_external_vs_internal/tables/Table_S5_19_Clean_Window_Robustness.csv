@@ -1,0 +1,13 @@
+"metric","specification","specification_label","contrast_id","contrast","loss_reduction","relative_loss_reduction","clean_dates"
+"conditional_gacv","same_day_conditional","Same-day conditional","coin_vs_macro","Coin-only relative to macro-only",0.0455153516391018,0.289998727670207,1713
+"conditional_gacv","same_day_conditional","Same-day conditional","incremental_coin","Incremental coin information in joint model",0.0508232042109512,0.323817437996834,1713
+"conditional_gacv","same_day_conditional","Same-day conditional","incremental_macro","Incremental macro information in joint model",0.00530785257184945,0.0476319010185081,1713
+"conditional_gacv","all_predictors_lagged","All predictors lagged","coin_vs_macro","Coin-only relative to macro-only",0.0211155537421863,0.134555218513658,1712
+"conditional_gacv","all_predictors_lagged","All predictors lagged","incremental_coin","Incremental coin information in joint model",0.0298922357795828,0.190483108626594,1712
+"conditional_gacv","all_predictors_lagged","All predictors lagged","incremental_macro","Incremental macro information in joint model",0.00877668203739653,0.0646232911785355,1712
+"oos_check_loss","same_day_conditional","Same-day conditional","coin_vs_macro","Coin-only relative to macro-only",-0.000799798975066809,-0.00362356661282546,1713
+"oos_check_loss","same_day_conditional","Same-day conditional","incremental_coin","Incremental coin information in joint model",-0.0078134456008702,-0.0353995710085477,1713
+"oos_check_loss","same_day_conditional","Same-day conditional","incremental_macro","Incremental macro information in joint model",-0.00701364662580341,-0.0316612776471209,1713
+"oos_check_loss","all_predictors_lagged","All predictors lagged","coin_vs_macro","Coin-only relative to macro-only",-0.0511491563416167,-0.23176592790594,1712
+"oos_check_loss","all_predictors_lagged","All predictors lagged","incremental_coin","Incremental coin information in joint model",-0.0533338919329691,-0.241665353581255,1712
+"oos_check_loss","all_predictors_lagged","All predictors lagged","incremental_macro","Incremental macro information in joint model",-0.00218473559135242,-0.00803677504876673,1712
