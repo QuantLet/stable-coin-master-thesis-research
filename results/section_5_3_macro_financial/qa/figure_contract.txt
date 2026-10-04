@@ -1,0 +1,34 @@
+Core conclusion:
+Macro-financial variables are recurrent but heterogeneous covariates of stablecoin lower-tail risk; frequent selection does not imply a uniform risk-off sign or causal dominance.
+
+Figure archetype:
+Single-panel quantitative grid (11 stablecoin targets x 5 lagged macro-financial predictors).
+
+Target journal/output:
+Generic Q1/SCI manuscript; double-column vector master with 600 dpi TIFF and PNG preview.
+
+Backend:
+R only, following the saved Nature-figure preference.
+
+Final size:
+183 mm x 112 mm.
+
+Panel map:
+Single panel: full-sample selection frequency for every target-factor pair.
+
+Evidence hierarchy:
+Hero evidence: target-factor selection-frequency heatmap.
+Validation evidence: factor-level HAC(90) intervals, sign-balance tests, and standardized coefficient-weight shares in Table 5.3.
+Controls/robustness: strict versus screened GACV, robust-scaled versus unscaled estimates, exclusion of past-filled windows, and chronological half-sample stability.
+
+Statistics needed:
+Calendar date is the sampling unit (n = 2,252). Use Newey-West HAC covariance with Bartlett kernel and lag 90 for means, factor contrasts and target-heterogeneity Wald tests. Use Holm correction within prespecified comparison families.
+
+Source data needed:
+Frozen primary and sensitivity coefficient panels, DPI states, output-window imputation flags, and clean CSV outputs behind the figure and table.
+
+Image-integrity notes:
+No filtering of targets, factors or dates. All 55 target-factor cells are displayed. No interpolation, smoothing or post-hoc cell selection.
+
+Reviewer risk:
+Selection frequency and standardized coefficient weight are conditional Lasso summaries, not causal effects or incremental predictive contribution. Correlated macro variables may substitute for one another. Full macro-only versus coin-only attribution is reserved for Section 5.4.

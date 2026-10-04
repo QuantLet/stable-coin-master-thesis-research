@@ -1,0 +1,6 @@
+"file","bytes","md5"
+"selected_coefficients_strict.csv.gz",3631462,"4c06df57503cbbadbac2eb097ca0089c"
+"selected_coefficients_screened.csv.gz",3631423,"a4185618c744d46f7853c32013376769"
+"selected_coefficients_raw_strict.csv.gz",3212362,"2cd4f4496097717ebf892844f3fea9e8"
+"dpi_primary_robust_mad_strict.csv",375975,"f935c11d6077cd6b32ad5b1d810b9236"
+"output_window_imputation_flags.csv",47722,"536cdb47af3c66463ef353f0804a780a"

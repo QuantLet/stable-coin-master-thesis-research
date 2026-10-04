@@ -1,0 +1,6 @@
+Sample: 2252 dates, 11 targets, 5 macro factors, 123860 target-factor coefficients.
+Global equality of macro selection frequencies: HAC Wald chi-square(4) = 178.962, p = 1.2457085e-37.
+Macro block share of total absolute standardized coefficient mass: 0.2082.
+Chronological half-sample target-factor rank correlation: 0.4700; top-10 overlap: 3.
+Strict versus screened target-factor rank correlation: 1.0000.
+Robust-scaled versus unscaled target-factor rank correlation: 0.0090.

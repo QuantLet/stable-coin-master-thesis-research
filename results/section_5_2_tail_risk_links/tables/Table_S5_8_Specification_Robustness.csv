@@ -1,0 +1,4 @@
+"comparison","active_frequency_rank_spearman","aligned_frequency_rank_spearman","directional_balance_rank_spearman","sign_state_agreement","active_jaccard","aligned_jaccard"
+"robust-MAD strict vs robust-MAD screened",0.999995491474378,1,1,0.999987889552721,0.999980918943673,0.999989794981172
+"robust-MAD strict vs unscaled strict",0.242005437220819,0.286272361693813,0.801376826133781,0.643379622154045,0.54604915680134,0.544277202094311
+"all windows vs windows without past-filled deviations",0.932568084528398,0.958968833274702,0.957570019745761,,,

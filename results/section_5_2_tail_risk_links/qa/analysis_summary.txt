@@ -1,0 +1,11 @@
+sample_days=2252
+directed_pairs=110
+pair_day_coefficients=247720
+overall_active_density=0.634680
+overall_aligned_density=0.395572
+overall_inverse_density=0.239109
+aligned_share_among_active=0.623261
+mean_absolute_pair_asymmetry=0.059269
+top_aligned_link=USDT->TUSD
+top_aligned_frequency=0.714476
+figure_pdf_backend=standard_pdf_Helvetica_fallback

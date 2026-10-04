@@ -1,0 +1,5 @@
+"comparison","spearman_rho","top_10_overlap","cells"
+"strict minimum GACV vs screened GACV",1,10,55
+"robust-scaled vs unscaled strict",0.00898284601239228,0,55
+"all dates vs dates without past-filled deviation cells",0.944389328965482,8,55
+"first chronological half vs second chronological half",0.470036440953813,3,55

@@ -1,0 +1,13 @@
+Core conclusion: Downside-aligned selections are significantly more frequent than inverse selections at the system level, while apparent pair-specific direction differences are not statistically stable after dependence and multiplicity adjustment.
+Figure archetype: single quantitative heatmap.
+Target output: thesis / high-impact finance journal, editable vector plus high-resolution raster.
+Backend: R only.
+Final size: 150 mm x 132 mm.
+Panel map: one 11 x 11 matrix; columns are source predictors and rows are target equations.
+Hero evidence: directional balance equals positive minus negative selection frequency across all 2,252 windows.
+Validation evidence: the system-wide aligned-minus-inverse contrast is tested using HAC(90) and adjusted with the two taxonomy contrasts; the ten largest full-sample positive selection frequencies are marked descriptively; block-bootstrap intervals and separate HAC(90)-Holm direction tests are supplied in the source tables.
+Controls: each equation includes the other stablecoins and five lagged macro-financial variables.
+Statistics: 1,999 circular moving-block bootstrap draws with 90-day blocks for pointwise persistence intervals; HAC(90) inference with one three-test Holm family for system/taxonomy contrasts and a separate 55-test Holm family for pair-specific directional differences.
+Source data: frozen robust-MAD strict-GACV coefficient panel from the primary DPI.
+Image integrity: no observations or pairs are omitted; the diagonal is structurally unestimated.
+Reviewer risks: coefficients are penalised and conditional, correlated predictors may substitute, full-sample rankings are temporally unstable, scaling changes positive-edge rankings, direction is predictor-to-target rather than causal time ordering, and state comparisons are endogenous to the same penalised system.

@@ -1,0 +1,12 @@
+"check","value","expected","pass"
+"primary_dates",2252,"2252",TRUE
+"target_count",11,"11",TRUE
+"macro_factor_count",5,"5",TRUE
+"target_factor_cells",55,"55",TRUE
+"macro_coefficient_rows",123860,"123860",TRUE
+"all_model_rows",371580,"371580",TRUE
+"past_filled_windows",539,"539",TRUE
+"zero_total_mass_equations",37,"37",TRUE
+"zero_macro_mass_equations",263,"263",TRUE
+"factor_selection_sum_check",0,"0",TRUE
+"macro_weight_sum_check",0.000000000000000333066907387547,"0",TRUE
