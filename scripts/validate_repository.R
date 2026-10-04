@@ -29,7 +29,7 @@ missing <- required[!file.exists(file.path(root, required))]
 if (length(missing)) stop("Missing required files:\n", paste(missing, collapse = "\n"))
 
 r_files <- c(
-  list.files(file.path(root, "outputs"), pattern = "\\.R$", recursive = TRUE, full.names = TRUE),
+  list.files(file.path(root, "results"), pattern = "\\.R$", recursive = TRUE, full.names = TRUE),
   file.path(root, "run_all.R"),
   list.files(file.path(root, "scripts"), pattern = "\\.R$", recursive = TRUE, full.names = TRUE),
   list.files(file.path(root, "environment"), pattern = "\\.R$", recursive = TRUE, full.names = TRUE)
