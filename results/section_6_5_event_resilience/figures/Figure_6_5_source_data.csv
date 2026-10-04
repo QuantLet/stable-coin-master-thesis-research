@@ -1,0 +1,19 @@
+"event_id","event_label","event_short","event_date","shock_type","origin","strategy","maximum_drawdown_0_30_pct","ew_maximum_drawdown_0_30_pct","drawdown_difference_pp"
+"kucoin","KuCoin security incident","KuCoin",2020-09-26,"Operational/infrastructure","Crypto-native","GMV",0.784734884415672,1.18122483573255,-0.396489951316881
+"kucoin","KuCoin security incident","KuCoin",2020-09-26,"Operational/infrastructure","Crypto-native","LTEC",3.78152918340721,1.18122483573255,2.60030434767465
+"kucoin","KuCoin security incident","KuCoin",2020-09-26,"Operational/infrastructure","Crypto-native","QTEC",3.41052873515818,1.18122483573255,2.22930389942563
+"china_crash","2021 crypto crash and China warning","May 2021 sell-off",2021-05-19,"Market-wide/regulatory","Crypto-native","GMV",0.936420999015286,1.69867500546933,-0.762254006454044
+"china_crash","2021 crypto crash and China warning","May 2021 sell-off",2021-05-19,"Market-wide/regulatory","Crypto-native","LTEC",3.28492316967006,1.69867500546933,1.58624816420073
+"china_crash","2021 crypto crash and China warning","May 2021 sell-off",2021-05-19,"Market-wide/regulatory","Crypto-native","QTEC",2.34878098682347,1.69867500546933,0.650105981354143
+"terra","Terra/UST collapse","Terra/UST",2022-05-09,"Endogenous design failure","Crypto-native","GMV",0.466099195193226,0.586915739218108,-0.120816544024882
+"terra","Terra/UST collapse","Terra/UST",2022-05-09,"Endogenous design failure","Crypto-native","LTEC",1.52381058070636,0.586915739218108,0.936894841488256
+"terra","Terra/UST collapse","Terra/UST",2022-05-09,"Endogenous design failure","Crypto-native","QTEC",1.04328731337704,0.586915739218108,0.456371574158931
+"ftx","FTX liquidity crisis","FTX",2022-11-08,"Intermediary/liquidity","Crypto-native","GMV",0.623855885143376,0.725369182446112,-0.101513297302736
+"ftx","FTX liquidity crisis","FTX",2022-11-08,"Intermediary/liquidity","Crypto-native","LTEC",0.809911547581799,0.725369182446112,0.0845423651356869
+"ftx","FTX liquidity crisis","FTX",2022-11-08,"Intermediary/liquidity","Crypto-native","QTEC",1.74071036242146,0.725369182446112,1.01534117997535
+"svb","SVB-linked USDC depeg","SVB/USDC",2023-03-11,"Reserve/custody","TradFi-to-crypto","GMV",1.72600571029322,0.740053331669355,0.985952378623867
+"svb","SVB-linked USDC depeg","SVB/USDC",2023-03-11,"Reserve/custody","TradFi-to-crypto","LTEC",0.712532736580351,0.740053331669355,-0.0275205950890034
+"svb","SVB-linked USDC depeg","SVB/USDC",2023-03-11,"Reserve/custody","TradFi-to-crypto","QTEC",0.811077791256876,0.740053331669355,0.0710244595875209
+"hormuz","Iran-Hormuz shock","Iran-Hormuz",2026-02-28,"External geopolitical/macro","External","GMV",0.0866346339770452,3.21893496869314,-3.1323003347161
+"hormuz","Iran-Hormuz shock","Iran-Hormuz",2026-02-28,"External geopolitical/macro","External","LTEC",1.78599199198894,3.21893496869314,-1.4329429767042
+"hormuz","Iran-Hormuz shock","Iran-Hormuz",2026-02-28,"External geopolitical/macro","External","QTEC",1.4349737488724,3.21893496869314,-1.78396121982074

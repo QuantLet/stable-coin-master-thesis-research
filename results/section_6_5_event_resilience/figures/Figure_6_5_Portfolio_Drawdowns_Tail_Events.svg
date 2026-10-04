@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='425.20pt' height='260.79pt' viewBox='0 0 425.20 260.79'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw0MjUuMjB8MC4wMHwyNjAuNzk='>
+    <rect x='0.00' y='0.00' width='425.20' height='260.79' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw0MjUuMjB8MC4wMHwyNjAuNzk=)'>
+<rect x='0.000000000000032' y='0.00' width='425.20' height='260.79' style='stroke-width: 0.73; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNjAuMTB8NDE4LjIyfDM2LjIxfDIzMy45Ng=='>
+    <rect x='60.10' y='36.21' width='358.12' height='197.75' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNjAuMTB8NDE4LjIyfDM2LjIxfDIzMy45Ng==)'>
+<rect x='60.10' y='36.21' width='358.12' height='197.75' style='stroke-width: 0.73; stroke: none; fill: #FFFFFF;' />
+<line x1='253.49' y1='233.96' x2='253.49' y2='36.21' style='stroke-width: 0.96; stroke: #707070; stroke-dasharray: 5.12,5.12; stroke-linecap: butt;' />
+<circle cx='232.14' cy='60.87' r='3.09' style='stroke-width: 0.64; stroke: none; fill: #315B8A;' />
+<polygon points='393.53,50.54 397.69,57.75 389.36,57.75 ' style='stroke-width: 0.64; stroke: none; fill: #C56A36;' />
+<polygon points='370.45,52.91 376.64,52.91 376.64,46.72 370.45,46.72 ' style='stroke-width: 0.64; stroke: none; fill: #76558A;' />
+<circle cx='212.44' cy='92.77' r='3.09' style='stroke-width: 0.64; stroke: none; fill: #315B8A;' />
+<polygon points='338.91,82.43 343.08,89.65 334.75,89.65 ' style='stroke-width: 0.64; stroke: none; fill: #C56A36;' />
+<polygon points='285.41,84.80 291.59,84.80 291.59,78.62 285.41,78.62 ' style='stroke-width: 0.64; stroke: none; fill: #76558A;' />
+<circle cx='246.98' cy='124.66' r='3.09' style='stroke-width: 0.64; stroke: none; fill: #315B8A;' />
+<polygon points='303.94,114.32 308.11,121.54 299.78,121.54 ' style='stroke-width: 0.64; stroke: none; fill: #C56A36;' />
+<polygon points='274.97,116.70 281.16,116.70 281.16,110.51 274.97,110.51 ' style='stroke-width: 0.64; stroke: none; fill: #76558A;' />
+<circle cx='248.02' cy='156.56' r='3.09' style='stroke-width: 0.64; stroke: none; fill: #315B8A;' />
+<polygon points='258.04,146.22 262.21,153.43 253.88,153.43 ' style='stroke-width: 0.64; stroke: none; fill: #C56A36;' />
+<polygon points='305.08,148.59 311.26,148.59 311.26,142.41 305.08,142.41 ' style='stroke-width: 0.64; stroke: none; fill: #76558A;' />
+<circle cx='306.59' cy='188.45' r='3.09' style='stroke-width: 0.64; stroke: none; fill: #315B8A;' />
+<polygon points='252.01,178.11 256.17,185.33 247.84,185.33 ' style='stroke-width: 0.64; stroke: none; fill: #C56A36;' />
+<polygon points='254.22,180.49 260.41,180.49 260.41,174.30 254.22,174.30 ' style='stroke-width: 0.64; stroke: none; fill: #76558A;' />
+<circle cx='84.80' cy='220.35' r='3.09' style='stroke-width: 0.64; stroke: none; fill: #315B8A;' />
+<polygon points='176.32,210.01 180.48,217.22 172.15,217.22 ' style='stroke-width: 0.64; stroke: none; fill: #C56A36;' />
+<polygon points='154.32,212.38 160.51,212.38 160.51,206.20 154.32,206.20 ' style='stroke-width: 0.64; stroke: none; fill: #76558A;' />
+</g>
+<g clip-path='url(#cpMC4wMHw0MjUuMjB8MC4wMHwyNjAuNzk=)'>
+<text x='58.61' y='217.40' text-anchor='end' style='font-size: 7.20px; font-family: "Helvetica";' textLength='39.94px' lengthAdjust='spacingAndGlyphs'>Iran-Hormuz</text>
+<text x='58.61' y='185.51' text-anchor='end' style='font-size: 7.20px; font-family: "Helvetica";' textLength='36.75px' lengthAdjust='spacingAndGlyphs'>SVB/USDC</text>
+<text x='58.61' y='153.61' text-anchor='end' style='font-size: 7.20px; font-family: "Helvetica";' textLength='13.58px' lengthAdjust='spacingAndGlyphs'>FTX</text>
+<text x='58.61' y='121.72' text-anchor='end' style='font-size: 7.20px; font-family: "Helvetica";' textLength='32.75px' lengthAdjust='spacingAndGlyphs'>Terra/UST</text>
+<text x='58.61' y='89.82' text-anchor='end' style='font-size: 7.20px; font-family: "Helvetica";' textLength='54.62px' lengthAdjust='spacingAndGlyphs'>May 2021 sell-off</text>
+<text x='58.61' y='57.93' text-anchor='end' style='font-size: 7.20px; font-family: "Helvetica";' textLength='23.58px' lengthAdjust='spacingAndGlyphs'>KuCoin</text>
+<polyline points='60.10,233.96 418.22,233.96 ' style='stroke-width: 0.85; stroke-linecap: square;' />
+<polyline points='145.78,235.82 145.78,233.96 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='253.49,235.82 253.49,233.96 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<polyline points='361.20,235.82 361.20,233.96 ' style='stroke-width: 0.75; stroke-linecap: butt;' />
+<text x='145.78' y='242.34' text-anchor='middle' style='font-size: 7.00px; font-family: "Helvetica";' textLength='6.22px' lengthAdjust='spacingAndGlyphs'>-2</text>
+<text x='253.49' y='242.34' text-anchor='middle' style='font-size: 7.00px; font-family: "Helvetica";' textLength='3.89px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='361.20' y='242.34' text-anchor='middle' style='font-size: 7.00px; font-family: "Helvetica";' textLength='3.89px' lengthAdjust='spacingAndGlyphs'>2</text>
+<text x='239.16' y='255.17' text-anchor='middle' style='font-size: 7.40px; font-family: "Helvetica";' textLength='216.33px' lengthAdjust='spacingAndGlyphs'>Maximum-drawdown difference relative to EW (percentage points)</text>
+<rect x='187.74' y='3.99' width='102.84' height='24.75' style='stroke-width: 0.73; stroke: none; fill: #FFFFFF;' />
+<rect x='191.48' y='7.72' width='7.97' height='17.28' style='stroke-width: 0.73; stroke: none; fill: #FFFFFF;' />
+<circle cx='195.46' cy='16.36' r='3.09' style='stroke-width: 0.64; stroke: none; fill: #315B8A;' />
+<rect x='222.86' y='7.72' width='7.97' height='17.28' style='stroke-width: 0.73; stroke: none; fill: #FFFFFF;' />
+<polygon points='226.84,11.55 231.01,18.77 222.68,18.77 ' style='stroke-width: 0.64; stroke: none; fill: #C56A36;' />
+<rect x='255.69' y='7.72' width='7.97' height='17.28' style='stroke-width: 0.73; stroke: none; fill: #FFFFFF;' />
+<polygon points='256.58,19.45 262.77,19.45 262.77,13.27 256.58,13.27 ' style='stroke-width: 0.64; stroke: none; fill: #76558A;' />
+<text x='203.18' y='18.87' style='font-size: 7.00px; font-family: "Helvetica";' textLength='15.94px' lengthAdjust='spacingAndGlyphs'>GMV</text>
+<text x='234.56' y='18.87' style='font-size: 7.00px; font-family: "Helvetica";' textLength='17.39px' lengthAdjust='spacingAndGlyphs'>LTEC</text>
+<text x='267.40' y='18.87' style='font-size: 7.00px; font-family: "Helvetica";' textLength='19.45px' lengthAdjust='spacingAndGlyphs'>QTEC</text>
+</g>
+</g>
+</svg>
