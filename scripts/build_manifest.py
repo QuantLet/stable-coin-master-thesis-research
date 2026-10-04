@@ -21,8 +21,16 @@ EXCLUDED_DIRS = {
     "__pycache__",
     "checkpoints",
 }
-EXCLUDED_SUFFIXES = {".zip", ".tif", ".tiff", ".pyc"}
-EXCLUDED_NAMES = {".DS_Store", ".Rhistory", ".RData", "files_sha256.csv"}
+EXCLUDED_SUFFIXES = {".tif", ".tiff", ".pyc"}
+EXCLUDED_NAMES = {
+    ".DS_Store",
+    ".Rhistory",
+    ".RData",
+    "code_inventory.csv",
+    "data_inventory.csv",
+    "files_sha256.csv",
+    "package_summary.json",
+}
 CODE_SUFFIXES = {".r", ".py", ".mjs", ".js", ".ipynb", ".sh"}
 DATA_SUFFIXES = {".csv", ".csv.gz", ".rds", ".json", ".parquet", ".xlsx"}
 
@@ -88,7 +96,7 @@ with (MANIFEST / "data_inventory.csv").open("w", newline="", encoding="utf-8") a
 # always describes the final summary content from the same manifest pass.
 all_files = files()
 summary = {
-    "package": ROOT.name,
+    "package": "stable-coin-master-thesis-research",
     "public_file_count_excluding_checksum_manifest": len(all_files),
     "public_bytes_excluding_checksum_manifest": sum(path.stat().st_size for path in all_files),
     "largest_public_file_bytes": max((path.stat().st_size for path in all_files), default=0),
