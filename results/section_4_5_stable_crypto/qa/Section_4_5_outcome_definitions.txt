@@ -1,0 +1,5 @@
+stable_outcome_primary=log1p(mean future reference-adjusted downside peg deviation in basis points)
+stable_outcome_secondary=future mean one-percent downside-depeg breadth share
+crypto_outcome_primary=log future annualised volatility of lagged-market-cap-weighted crypto return
+risk_state_threshold=full-sample 80th percentile; descriptive only; never used in forecasts
+crypto_market_weighting=lagged market capitalisation with daily renormalisation over valid assets

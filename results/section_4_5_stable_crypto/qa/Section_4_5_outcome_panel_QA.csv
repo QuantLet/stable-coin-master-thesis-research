@@ -1,0 +1,8 @@
+"check","status","detail"
+"common_panel_dates_unique","PASS","2197 daily observations"
+"common_panel_sorted_daily","PASS","2020-04-01 to 2026-04-06"
+"primary_frms_finite_positive","PASS","Reference-adjusted screened Stable FRM and dynamic-15 screened Crypto FRM"
+"market_return_uses_lagged_mcap","PASS","Weights dated t-1; missing assets excluded and remaining weights renormalised"
+"stable_outcome_reference_adjusted","PASS","PAXG/XAUUSD, EURS/EURUSD and IDRT/IDRUSD were adjusted upstream"
+"full_hormuz_0_30_available","PASS","2026-04-06"
+"state_partition_exhaustive","PASS","stable q80=0.0068214; crypto q80=0.0846509"

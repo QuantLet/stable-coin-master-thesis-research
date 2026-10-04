@@ -1,0 +1,11 @@
+interpretation=associational and predictive, not structural causal
+primary_stable_predictor=reference-adjusted 11-coin numerically screened FRM
+primary_crypto_predictor=PPT-defined dynamic 15-asset numerically screened FRM
+forecast_models=historical mean; stable FRM; crypto FRM; joint FRMs
+forecast_horizons_days=10,35,90,150
+forecast_schemes=expanding and rolling 63 fully observed targets
+forecast_embargo=training target end date must not exceed forecast origin date
+forecast_inference=Clark-West for nested comparisons; DM-style HAC for stable-vs-crypto
+forecast_multiplicity=Holm across four horizons within outcome/scheme/comparison
+event_inference=global segmented regression, year effects, linear trend, HAC90
+event_multiplicity=Holm across six events within series/contrast

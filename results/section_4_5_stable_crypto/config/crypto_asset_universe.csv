@@ -1,0 +1,16 @@
+order,ticker,coingecko_id,continuation_id,ppt_label,first_use_label,notes
+1,BTC,bitcoin,,BTC,Bitcoin (BTC),PPT slide 7
+2,ETH,ethereum,,ETH,Ether (ETH),PPT slide 7
+3,BNB,binancecoin,,BNB,BNB (BNB),PPT slide 7
+4,XRP,ripple,,XRP,XRP (XRP),PPT slide 7
+5,ADA,cardano,,ADA,Cardano (ADA),PPT slide 7
+6,DOGE,dogecoin,,DOGE,Dogecoin (DOGE),PPT slide 7
+7,DOT,polkadot,,PDT,Polkadot (DOT),PPT shows PDT; standard market ticker DOT is used
+8,AVAX,avalanche-2,,AVAX,Avalanche (AVAX),PPT slide 7
+9,SHIB,shiba-inu,,SHIB,Shiba Inu (SHIB),PPT slide 7
+10,TRX,tron,,TRX,TRON (TRX),PPT slide 7
+11,CRO,crypto-com-chain,,CRO,Cronos (CRO),PPT slide 7
+12,MATIC_POL,matic-network,polygon-ecosystem-token,MATIC,Polygon (MATIC/POL),1:1 MATIC-to-POL continuation from 2024-09-04
+13,NEAR,near,,NEAR,NEAR Protocol (NEAR),PPT slide 7
+14,BCH,bitcoin-cash,,BCH,Bitcoin Cash (BCH),PPT slide 7
+15,LINK,chainlink,,LINK,Chainlink (LINK),PPT slide 7

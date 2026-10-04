@@ -1,0 +1,13 @@
+sample_days=2252
+target_models=24772
+candidate_coefficients=371580
+active_coefficients_tolerance_1e10=236190
+mean_active_count_of_15=9.534555
+median_active_count_of_15=10
+stablecoin_inclusion_rate=0.634680
+macro_inclusion_rate=0.637550
+stablecoin_share_of_selected=0.665663
+top_stablecoin_predictor=BUSD
+top_macro_predictor=L1_CVIX.Index
+dpi_quintile_breaks=0.920140,1.049539,1.156032,1.302361
+figure_pdf_backend=standard_pdf_Helvetica_fallback

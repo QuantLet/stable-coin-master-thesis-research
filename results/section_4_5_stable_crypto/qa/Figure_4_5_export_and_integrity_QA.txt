@@ -1,0 +1,10 @@
+backend=R only
+layout=single heatmap; no panel assembly
+final_size_mm=183x90
+cells=48; all two outcomes x four horizons x three predictor models x two schemes
+metric=Campbell-Thompson out-of-sample R-squared relative to historical mean
+frm_construction=90-calendar-day rolling window for both Stable and Crypto FRM
+rolling_63=forecast-regression estimation window only
+values=exact values printed in every cell
+vector_exports=SVG and PDF with editable text
+raster_exports=TIFF 600 dpi; PNG 300 dpi preview

@@ -1,0 +1,8 @@
+"check","status","detail"
+"ppt_asset_count","PASS","BTC, ETH, BNB, XRP, ADA, DOGE, DOT, AVAX, SHIB, TRX, CRO, MATIC_POL, NEAR, BCH, LINK"
+"daily_calendar","PASS","2020-01-01 to 2026-04-06"
+"sample_start","PASS","2020-01-01"
+"sample_end","PASS","2026-04-06"
+"all_observed_prices_positive","PASS","32355 observed cells"
+"all_assets_have_90_observations","PASS","1810 to 2288"
+"polygon_continuation_present","PASS","MATIC retained only where post-migration POL is absent"

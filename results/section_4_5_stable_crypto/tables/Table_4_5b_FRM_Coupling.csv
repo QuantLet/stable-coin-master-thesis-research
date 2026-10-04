@@ -1,0 +1,5 @@
+"estimand","estimate","observations","role"
+"log_level_pearson",0.568002007847595,2197,"descriptive"
+"log_level_spearman",0.597095085123912,2197,"descriptive"
+"log_change_pearson",-0.022108948985932,2196,"descriptive"
+"log_change_spearman",-0.0014332750280794,2196,"descriptive"

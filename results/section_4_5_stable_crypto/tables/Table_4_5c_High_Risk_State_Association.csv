@@ -1,0 +1,2 @@
+"stable_high_days","crypto_high_days","joint_high_days","p_stable_high_given_crypto_high","p_stable_high_given_crypto_normal","excess_joint_high_share_over_independence","odds_ratio","block_bootstrap_ci95_low","block_bootstrap_ci95_high","block_length","bootstrap_replications"
+439,439,268,0.610478359908884,0.0972696245733788,0.0820573177848968,14.4920483812017,3.89481275480943,55.149438328609,90,999

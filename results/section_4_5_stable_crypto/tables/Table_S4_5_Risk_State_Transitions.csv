@@ -1,0 +1,17 @@
+"state_t","state_t_plus_1","probability"
+"joint_normal","joint_normal",0.959646910466583
+"stable_only_high","joint_normal",0.198830409356725
+"crypto_only_high","joint_normal",0.16374269005848
+"joint_high","joint_normal",0.0111940298507463
+"joint_normal","stable_only_high",0.0226986128625473
+"stable_only_high","stable_only_high",0.695906432748538
+"crypto_only_high","stable_only_high",0.00584795321637427
+"joint_high","stable_only_high",0.0559701492537313
+"joint_normal","crypto_only_high",0.0163934426229508
+"stable_only_high","crypto_only_high",0.00584795321637427
+"crypto_only_high","crypto_only_high",0.748538011695906
+"joint_high","crypto_only_high",0.0597014925373134
+"joint_normal","joint_high",0.00126103404791929
+"stable_only_high","joint_high",0.0994152046783626
+"crypto_only_high","joint_high",0.0818713450292398
+"joint_high","joint_high",0.873134328358209

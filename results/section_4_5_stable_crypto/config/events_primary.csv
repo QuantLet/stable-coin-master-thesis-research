@@ -1,0 +1,7 @@
+event_id,event_label,event_date,shock_type,origin,selection_role,date_alignment
+kucoin,KuCoin security incident,2020-09-26,Operational/infrastructure,Crypto-native,Comparison event,"First full UTC day after anomalous withdrawals began at 2020-09-25 19:05 UTC"
+china_crash,2021 crypto crash and China warning,2021-05-19,Market-wide/regulatory,Crypto-native,Primary event,"Daily event date used in contemporaneous market and policy timelines"
+terra,Terra/UST collapse,2022-05-09,Endogenous design failure,Crypto-native,Primary event,"Start of sustained UST dislocation used by BIS and event-study literature"
+ftx,FTX liquidity crisis,2022-11-08,Intermediary/liquidity,Crypto-native,Primary event,"Liquidity-crisis date commonly used in event-study literature"
+svb,SVB-linked USDC depeg,2023-03-11,Reserve/custody,TradFi-to-crypto,Primary event,"First full UTC day of the USDC price dislocation after the 10 March bank closure"
+hormuz,Iran-Hormuz shock,2026-02-28,External geopolitical/macro,External,Exploratory primary event,"War-onset date in the April 2026 IMF World Economic Outlook"

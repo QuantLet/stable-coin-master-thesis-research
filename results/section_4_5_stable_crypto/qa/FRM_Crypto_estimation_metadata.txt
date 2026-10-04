@@ -1,0 +1,13 @@
+algorithm=author-supplied FRM_Statistics_Algorithm.R
+algorithm_md5=b500265f1a91d231f127fe046a337bca
+GitHub_wrapper_reference=fankewe/master-thesis-code commit b827743bd4d47deb04bfdcf6777ef44ae2a2d8f5
+window=90
+tau=0.05
+path_steps=25
+selection=minimum finite GACV with original-row mapping
+strict_post_processing=none
+separate_numerical_screening_ratio=20
+main_universe=PPT slide 7 fifteen cryptoassets with window-active columns
+robustness_universe=balanced nine assets with complete local price coverage
+missing_return_rule=non-finite log returns set to zero as in supplied GitHub wrapper
+aggregation=equal-weight mean of active asset-specific selected lambdas

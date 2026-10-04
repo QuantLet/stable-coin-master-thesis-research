@@ -1,0 +1,7 @@
+"check","status","detail"
+"all_daily_strict_frm_finite","PASS","2198 of 2198"
+"all_daily_screened_frm_finite","PASS","2198 of 2198"
+"no_target_fit_failures","PASS","0 failed target fits"
+"minimum_finite_gacv_row_mapping","PASS","Filtered finite rows are mapped back to their original path rows"
+"numerical_screening_separate","PASS","2 target paths changed"
+"output_end_matches_local_crypto_data","PASS","2026-04-06"

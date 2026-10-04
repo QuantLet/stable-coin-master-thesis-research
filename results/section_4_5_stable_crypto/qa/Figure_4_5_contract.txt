@@ -1,0 +1,12 @@
+Core conclusion: Crypto FRM consistently predicts future broad-crypto volatility under expanding estimation, whereas stablecoin-downside predictability is weaker and the 63-observation rolling forecasts are generally unstable.
+Figure archetype: single quantitative heatmap; no panel assembly.
+Target journal/output: high-impact finance manuscript; one double-column figure.
+Backend: R only.
+Final size: 183 mm x 90 mm.
+Evidence shown: Campbell-Thompson out-of-sample R-squared for two outcomes, four horizons, three predictor sets and two estimation schemes.
+Evidence not shown: event effects are already reported in Section 4.4; balanced-nine and strict-GACV checks remain in supplementary tables.
+Statistics: values are out-of-sample R-squared relative to the historical-mean forecast; positive values indicate improvement.
+Source data: all 48 pre-specified cells, with no horizon, model, outcome or scheme omitted.
+Image-integrity notes: no data subsampling and no cell selection; exact values are printed in every cell.
+Reviewer risk: 63 refers to the forecast-regression estimation sample, not the 90-day rolling windows used to construct both FRMs; expanding-window success does not imply time-invariant predictability.
+
