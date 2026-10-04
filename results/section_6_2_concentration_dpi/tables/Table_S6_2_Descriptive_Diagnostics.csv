@@ -1,0 +1,8 @@
+"item","value"
+"Pearson correlation: NHHI and Top-2 share",0.811035540749231
+"Spearman correlation: NHHI and Top-2 share",0.715143656063712
+"AR(1): log DPI",0.748445065654266
+"AR(1): NHHI",0.999657145718394
+"AR(1): Top-2 share",0.999750965201168
+"DPI observations",2252
+"On-chain complete observations",1611

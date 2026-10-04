@@ -1,0 +1,2 @@
+"sample_start","sample_end","calendar_days","median_active_coins","min_active_coins","max_active_coins","median_nhhi","first30_median_nhhi","last30_median_nhhi","first30_median_top2","last30_median_top2","min_nhhi","min_nhhi_date","max_nhhi","max_nhhi_date","median_effective_number"
+2020-01-01,2026-05-31,2343,11,8,11,0.510599785797836,0.63826488972908,0.514664103896939,0.907876883759697,0.973297614478467,0.274881543581688,2022-11-16,0.728555488859949,2020-06-16,1.80091708683303

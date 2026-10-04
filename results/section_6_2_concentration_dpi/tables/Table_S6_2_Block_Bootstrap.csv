@@ -1,0 +1,3 @@
+"metric","predictor","block_length","repetitions","estimate_log_points","bootstrap_ci95_low_log_points","bootstrap_ci95_high_log_points","effect_pct","bootstrap_ci95_low_pct","bootstrap_ci95_high_pct","n"
+"NHHI","L1_z_nhhi",90,999,-0.0153281763581153,-0.051176976491206,0.0189459790275721,-1.52112978032737,-4.98894915715433,1.91265929207636,2251
+"Top-2 market share","L1_z_top2",90,999,-0.0202653332524184,-0.0600834652922524,0.0175352222096592,-2.00613714944573,-5.83140677874909,1.76898668053509,2251

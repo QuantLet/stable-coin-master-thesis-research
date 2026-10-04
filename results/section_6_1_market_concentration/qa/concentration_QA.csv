@@ -1,0 +1,8 @@
+"check","status","detail"
+"complete_calendar","PASS","2343 daily rows"
+"all_daily_metrics_finite","PASS","0 non-finite NHHI values"
+"shares_sum_to_one","PASS","maximum absolute share-sum error 6.66e-16"
+"hhi_bounds","PASS","HHI range 0.3408 to 0.7557"
+"nhhi_bounds","PASS","NHHI range 0.2749 to 0.7286"
+"top_share_order","PASS","top-1 <= top-2 <= 1"
+"no_imputed_market_cap","PASS","missing and non-positive values excluded day by day; no zero fill, interpolation or carry-forward"

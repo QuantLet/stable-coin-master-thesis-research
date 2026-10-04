@@ -1,0 +1,8 @@
+Core conclusion: Market concentration does not retain a stable association with the DPI after calendar-regime controls.
+Figure archetype: single-panel quantitative coefficient plot.
+Backend: R only.
+Final size: 160 x 92 mm.
+Evidence hierarchy: adjusted primary estimate; matched-sample and timing robustness estimates.
+Statistics: percentage effect per one-standard-deviation increase; 95% HAC(90) intervals; Holm p values reported in source data and text.
+Source data: figures/Figure_6_2_source_data.csv.
+Reviewer risk: raw 95% intervals are shown; multiplicity-adjusted p values govern manuscript claims.
