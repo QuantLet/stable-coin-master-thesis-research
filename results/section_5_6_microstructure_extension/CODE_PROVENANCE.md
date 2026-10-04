@@ -1,7 +1,0 @@
-# Code and data provenance
-
-The extension copies the frozen Chapter 5.4 peg panel, macro panel, baseline prediction RDS and original `FRM_Statistics_Algorithm.R` unchanged into `source_data/input/`. It copies the cleaned on-chain daily CSV from `onchain_microdata_20260919` and the frozen Chapter 4 DPI for comparison. Every copied input matches its source by MD5; see `qa/input_manifest_md5.csv`.
-
-`code/01_estimate_micro_extension.R` follows the Chapter 5.4 training-window construction, one-day macro lag, median/MAD standardization, random-seed rule, 25-path-step Quantile-Lasso and strict minimum finite GACV row. The only model change is appending three named, transformed, previous-day on-chain columns. The unchanged upstream algorithm is stored in `source_data/input/`. Baseline predictions are read from the prior package rather than silently refitted. `code/02_analyse_micro_extension.R` performs matched date-target joins and date-level inference; `code/03_input_manifest.R` verifies input copies. `reference_code/` retains the original Chapter 5.4 estimator and the on-chain cleaning provenance.
-
-The on-chain source is the public [stablecoin-onchain-data repository](https://github.com/MSCA-DN-Digital-Finance/stablecoin-onchain-data), with the release and raw-file checksums documented in `reference_code/onchain_cleaning/README.md` and its quality table. The current package includes processed inputs and R estimates, not the raw upstream Parquet archives.
