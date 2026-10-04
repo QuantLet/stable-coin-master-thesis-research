@@ -1,0 +1,7 @@
+"check","status","detail"
+"matched_rows","PASS","33462"
+"same_dates_and_targets","PASS","1521"
+"same_observed_response","PASS","0"
+"same_target_scaling","PASS","0"
+"finite_losses","PASS","33462"
+"full_output_dates","PASS","2022-04-02 to 2026-05-31"

@@ -1,0 +1,6 @@
+"check","status","detail"
+"expected_rows","PASS","33462 of 33462"
+"two_timing_specs","PASS","all_predictors_lagged; same_day_conditional"
+"all_losses_finite","PASS","33462 finite"
+"no_fit_failures","PASS","0 failed fits"
+"no_missing_micro_coefficients","PASS","33462 coefficient rows"

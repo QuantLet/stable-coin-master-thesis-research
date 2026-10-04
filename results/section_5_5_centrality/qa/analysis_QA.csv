@@ -1,0 +1,9 @@
+"check","value"
+"windows",2252
+"coins",11
+"directed_pairs_per_window",110
+"coefficient_rows",247720
+"clean_windows",1713
+"positive_density",0.395571613111578
+"negative_edges_excluded",59232
+"nonfinite_node_metrics",0

@@ -1,0 +1,7 @@
+"file","origin","source_md5","bundle_md5","exact_copy"
+"peg_panel_reference_adjusted.csv","outputs/section_5_4_external_vs_internal/source_data/input/peg_panel_reference_adjusted.csv","6f0d9d6572a914f39551bb1f73731543","6f0d9d6572a914f39551bb1f73731543",TRUE
+"Stable_Macro_20260531.csv","outputs/section_5_4_external_vs_internal/source_data/input/Stable_Macro_20260531.csv","15f19d07def9853b23a0a98b280e4fd4","15f19d07def9853b23a0a98b280e4fd4",TRUE
+"OOS_Block_Model_Predictions.rds","outputs/section_5_4_external_vs_internal/source_data/OOS_Block_Model_Predictions.rds","4a036da491cd107a1ebaa606c7c1034d","4a036da491cd107a1ebaa606c7c1034d",TRUE
+"FRM_Statistics_Algorithm.R","outputs/section_5_4_external_vs_internal/reference_code/FRM_Statistics_Algorithm.R","b500265f1a91d231f127fe046a337bca","b500265f1a91d231f127fe046a337bca",TRUE
+"stablecoin_onchain_daily_20200101_20260531.csv","outputs/onchain_microdata_20260919/stablecoin_onchain_daily_20200101_20260531.csv","6721bfce9086c5a8b5086dbdb7de5df9","6721bfce9086c5a8b5086dbdb7de5df9",TRUE
+"dpi_primary_robust_mad_strict.csv","outputs/section_5_5_centrality/source_data/input/dpi_primary_robust_mad_strict.csv","f935c11d6077cd6b32ad5b1d810b9236","f935c11d6077cd6b32ad5b1d810b9236",TRUE
