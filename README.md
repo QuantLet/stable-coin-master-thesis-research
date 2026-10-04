@@ -17,13 +17,13 @@ Author: Kewen FAN
 
 Submitted: Kewen FAN, 2026-10-04
 
-Datafile: Section-specific frozen analysis inputs are stored in outputs/*/source_data/input; derived source data, tables, and quality-assurance files are stored within the corresponding section folders. Raw CoinGecko API exports are not included in the public package because they are third-party licensed data.
+Datafile: Section-specific frozen analysis inputs are stored in results/*/source_data/input; derived source data, tables, and quality-assurance files are stored within the corresponding section folders. Raw CoinGecko API exports are not included in the public package because they are third-party licensed data.
 
 Input: The package uses reference-asset-adjusted stablecoin price and peg-deviation panels, rolling Quantile-Lasso coefficients and DPI series, crypto-market and macro-financial variables, derived on-chain liquidity measures, stablecoin market-capitalisation data, and leakage-free portfolio inputs. The bundled frozen inputs reproduce the reported tables and figures without requiring the restricted raw CoinGecko exports.
 
 Output: The Quantlet generates event-study estimates, stablecoin-to-stablecoin tail-risk links, active-driver and transmission-channel results, centrality and microstructure analyses, concentration-DPI tests, and out-of-sample portfolio and event-resilience tables and figures, together with source-data and QA records.
 
-Example: outputs/section_4_4_reference_adjusted_event_study/figures/Figure_4_4_FRM_Event_Responses_Redesigned.png, outputs/section_5_4_external_vs_internal/figures/Figure_5_4_Relative_Tail_Risk_Information.png, outputs/section_6_5_event_resilience/figures/Figure_6_5_Portfolio_Drawdowns_Tail_Events.png
+Example: results/section_4_4_reference_adjusted_event_study/figures/Figure_4_4_FRM_Event_Responses_Redesigned.png, results/section_5_4_external_vs_internal/figures/Figure_5_4_Relative_Tail_Risk_Information.png, results/section_6_5_event_resilience/figures/Figure_6_5_Portfolio_Drawdowns_Tail_Events.png
 ```
 
 # Stablecoin systemic risk: replication package
@@ -75,7 +75,7 @@ Section-specific commands and expected outputs are listed in [REPRODUCTION_ORDER
 
 ```text
 .
-├── outputs/       # chapter-specific code, frozen inputs, tables, figures, and QA
+├── results/       # chapter-specific code, frozen inputs, tables, figures, and QA
 ├── work/          # consolidated upstream/local research code used to build the packages
 ├── environment/   # package installation and environment notes
 ├── scripts/       # repository validation utilities
@@ -83,7 +83,7 @@ Section-specific commands and expected outputs are listed in [REPRODUCTION_ORDER
 └── data/          # instructions for restricted third-party raw inputs
 ```
 
-The `outputs/` folders are the recommended replication entry points. The `work/` folders preserve development provenance and are not the preferred route for regenerating final manuscript exhibits.
+The `results/` folders are the recommended replication entry points. The `work/` folders preserve development provenance and are not the preferred route for regenerating final manuscript exhibits.
 
 Repository-wide inventories are stored in `manifest/`. Rebuild them after any change with `python3 scripts/build_manifest.py`.
 
