@@ -103,6 +103,4 @@ Read [DATA_AVAILABILITY.md](DATA_AVAILABILITY.md), [THIRD_PARTY_DATA.md](THIRD_P
 
 Citation metadata are provided in [CITATION.cff](CITATION.cff). After creating a public GitHub release, archive that release with Zenodo and add the issued DOI to both the manuscript and this repository.
 
-## 中文说明
 
-本目录已经按论文最终实证顺序整理。建议审稿复现时直接使用各章节 `source_data/input/` 中的冻结输入；它们可以重建正文表图，而不必重复运行耗时的滚动 Quantile-Lasso。CoinGecko 原始导出受第三方再分发条件约束，因此未放入公开上传包；本地备份另行保存，不应直接上传 GitHub。
